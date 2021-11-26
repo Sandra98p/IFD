@@ -9,5 +9,5 @@ Projektzwischenstände:
 - <a href="https://github.com/Sandra98p/IFD/blob/main/02%23Aufgaben/02%23Aufgabe_IFD.pdf">Dashboard 1 - Scribble</a>
 
 03#Aufgabe
-- <a href="https://xd.adobe.com/view/f99b0062-177e-4f2f-ab41-fe5e4a274041-acc8/?fullscreen">Link zum Prototypen: Benutzerdefinierte Version</a>
-- <a href="https://xd.adobe.com/view/f99b0062-177e-4f2f-ab41-fe5e4a274041-acc8/">Link zum Prototypen: Design-Review</a>
+- <a href="https://xd.adobe.com/view/11de97f6-4b5a-4db4-82c8-117b207aa709-448d/?fullscreen&hints=off">Link zum Prototypen: User Testing</a>
+
