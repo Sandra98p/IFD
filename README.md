@@ -12,5 +12,5 @@ Projektzwischenstände:
 - <a href="https://xd.adobe.com/view/58713a8b-ff51-4169-bef7-0933c7184f6d-0d22/?fullscreen">Link zum Prototypen: User Testing</a>
 
 07#Aufgabe
-- <a href="https://github.com/Sandra98p/IFD/blob/main/07%23Aufgabe/User-Testing_Leitfaden.pdf">Link zum Prototypen: User Testing</a>
+- <a href="https://github.com/Sandra98p/IFD/blob/main/07%23Aufgabe/User-Testing_Leitfaden.pdf">User-Testing Leitfaden & Protokoll</a>
 
