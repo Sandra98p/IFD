@@ -16,4 +16,3 @@ Projektzwischenstände:
 
 08#Aufgabe
 - <a href="https://xd.adobe.com/view/58713a8b-ff51-4169-bef7-0933c7184f6d-0d22/?fullscreen&hints=off">Link zum fertigen Prototyp</a>
-
