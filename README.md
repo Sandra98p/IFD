@@ -19,3 +19,8 @@ Projektzwischenstände:
 
 10#Aufgabe
 - <a href="https://github.com/Sandra98p/IFD/blob/main/10%23Aufgabe/Sprachassistent_Konzept.pdf">VUI Konzept</a>
+
+11#Aufgabe
+- <a href="https://github.com/Sandra98p/IFD/blob/main/11%23Aufgabe/Sprachassistent_Konzept.pdf">Link zum Sprachassistent</a>
+- <a href="https://github.com/Sandra98p/IFD/blob/main/11%23Aufgabe/IFD_Screencast_VUI.mp4">Screencast Sprachassistent</a>
+- <video><source src="IFD_Screencast_VUI.mp4" type="video/mp4">Screencast Sprachassistent</source></video>
