@@ -21,5 +21,5 @@ Projektzwischenstände:
 - <a href="https://github.com/Sandra98p/IFD/blob/main/10%23Aufgabe/Sprachassistent_Konzept.pdf">VUI Konzept</a>
 
 11#Aufgabe
-- <a href="https://github.com/Sandra98p/IFD/blob/main/11%23Aufgabe/Sprachassistent_Konzept.pdf">Link zum Sprachassistent</a>
+- <a href="https://cloud.protopie.io/p/b557de6156">Link zum Sprachassistent</a>
 - <a href="https://webuser.hs-furtwangen.de/~pliewisc/IFD/IFD_VUI_Screencast.mp4">Screencast Sprachassistent</a>
